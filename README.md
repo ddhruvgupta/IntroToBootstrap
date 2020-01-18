@@ -1,2 +1,0 @@
-# IntroToReact
-React Playground
