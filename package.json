@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "php": "0.0.1",
     "popper": "^1.0.1"
   }
